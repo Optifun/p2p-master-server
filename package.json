@@ -1,7 +1,7 @@
 {
-  "name": "typescript-nodejs-template",
+  "name": "p2p-master-server",
   "version": "1.0.0",
-  "description": "A simple template for typescript Node.js project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve",
@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@msgpack/msgpack": "^2.7.0",
     "typescript": "^4.0.3"
   },
   "devDependencies": {
